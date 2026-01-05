@@ -12,10 +12,6 @@ const nextConfig: NextConfig = {
     ],
   },
   experimental: {
-    allowedDevOrigins: [
-      'preview-*.share.sandbox.dev',
-      '*.share.sandbox.dev',
-    ],
   },
 };
 
