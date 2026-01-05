@@ -1,6 +1,8 @@
 import Image from 'next/image';
 import EmailButton from '@/components/EmailButton';
 
+// updated
+
 type ExperienceProject = {
   company: string;
   role: string;
