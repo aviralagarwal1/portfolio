@@ -102,7 +102,7 @@ export default function Home() {
             </div>
             <div className="flex gap-3 text-sm">
               <a
-                href="/resume.pdf"
+                href="/Aviral-Agarwal-Resume.pdf"
                 download="Aviral Agarwal - Resume.pdf"
                 className="flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-indigo-600 to-violet-600 text-white rounded-lg hover:from-indigo-700 hover:to-violet-700 transition-all duration-300 font-medium shadow-lg hover:shadow-xl hover:scale-105"
               >
