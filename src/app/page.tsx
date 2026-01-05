@@ -360,6 +360,8 @@ export default function Home() {
 
           <a
             href="/drone"
+            target="_blank"
+            rel="noopener noreferrer"
             className="block p-5 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-300 border border-slate-200 group"
           >
             <div className="flex items-center gap-4">
