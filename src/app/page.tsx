@@ -1,7 +1,17 @@
 import Image from 'next/image';
 import EmailButton from '@/components/EmailButton';
 
-const experiences = [
+type ExperienceProject = {
+  company: string;
+  role: string;
+  location: string;
+  tagline: string | null;
+  description: string | null;
+  logo: string;
+  url: string;
+};
+
+const experiences: ExperienceProject[] = [
   {
     company: 'Boston Consulting Group',
     role: 'Incoming Summer Associate',
@@ -40,7 +50,7 @@ const experiences = [
   },
 ];
 
-const projects = [
+const projects: ExperienceProject[] = [
   {
     company: 'Loman AI',
     role: 'Product Manager Extern',
