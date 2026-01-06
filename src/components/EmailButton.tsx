@@ -7,7 +7,7 @@ export default function EmailButton() {
 
   const copyEmail = async () => {
     try {
-      await navigator.clipboard.writeText('aviralagarwal99@utexas.edu');
+      await navigator.clipboard.writeText('aviralag99@gmail.com');
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     } catch (err) {
