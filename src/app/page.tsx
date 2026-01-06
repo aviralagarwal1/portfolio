@@ -172,7 +172,7 @@ export default function Home() {
               <span className="font-medium">Minor:</span> Business Analytics, Entrepreneurship
             </p>
             <p className="text-base text-slate-700">
-              <span className="font-medium">Technical Skills:</span> Python, SQL, R Studio, C#, Tableau, Power BI, Snowflake, MongoDB, AWS (RDS), Figma, Jira, Microsoft Office
+              <span className="font-medium">Technical Skills:</span> Python, SQL, R Studio, C#, Tableau, Power BI, Snowflake, MongoDB, AWS (RDS), Figma, Jira, Git/GitHub, Microsoft Excel, PowerPoint
             </p>
             <p className="text-base text-slate-600 pt-1">
               <span className="font-medium text-slate-700">Organizations:</span> Product@TX, Texas Consulting, Texas Management Consulting Association
