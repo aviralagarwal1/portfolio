@@ -94,7 +94,7 @@ export default function Home() {
             </h1>
             <div className="text-lg text-slate-600 mb-8 leading-relaxed space-y-4">
               <p>
-                Hello! I'm Aviral, a junior studying Business Honors and Management Information Systems at UT Austin. I have experience across product, strategy, and growth roles at startups and most recently at ServiceNow, where I worked on CRM software and data migration. This year, I will be joining BCG as a Summer Associate in the Seattle office.
+                Hello! I'm Aviral, a junior studying Business Honors and Management Information Systems at UT Austin. I have experience across product, strategy, and growth roles at startups and most recently at ServiceNow, where I focused on CRM software and data migration. This year, I will be joining BCG as a Summer Associate in the Seattle office.
               </p>
               <p>
                 I'm interested in building products that sit close to real users, complex systems, and data informed decision making.
