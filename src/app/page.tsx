@@ -103,7 +103,8 @@ export default function Home() {
             <div className="flex gap-3 text-sm">
               <a
                 href="/Aviral-Agarwal-Resume.pdf"
-                download="Aviral Agarwal - Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-indigo-600 to-violet-600 text-white rounded-lg hover:from-indigo-700 hover:to-violet-700 transition-all duration-300 font-medium shadow-lg hover:shadow-xl hover:scale-105"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
